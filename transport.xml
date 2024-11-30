@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <vehicle type="Car" fuel="Petrol">
+        <brand>Toyota</brand>
+        <model>Corolla</model>
+        <capacity unit="seats">5</capacity>
+        <year>2021</year>
+    </vehicle>
+    <vehicle type="Bicycle" usage="Recreational">
+        <brand>Giant</brand>
+        <model>Escape 3</model>
+        <gearCount>21</gearCount>
+        <weight unit="kg">13.5</weight>
+    </vehicle>
+    <vehicle type="Train" purpose="Commuting">
+        <line>Red Line</line>
+        <operator>City Metro</operator>
+        <capacity unit="passengers">200</capacity>
+        <speed unit="km/h">80</speed>
+    </vehicle>
+</transport>

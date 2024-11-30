@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <sender>
+        <name>John Doe</name>
+        <emailAddress>johndoe@example.com</emailAddress>
+    </sender>
+    <recipient>
+        <name>Jane Smith</name>
+        <emailAddress>janesmith@example.com</emailAddress>
+    </recipient>
+    <subject>Meeting Confirmation</subject>
+    <body>
+        Dear Jane,
+
+        I hope this email finds you well. I am writing to confirm our meeting scheduled for Friday, December 1st, at 2:00 PM. Please let me know if the time works for you or if there are any changes needed.
+
+        Looking forward to your reply.
+
+        Best regards,
+        John
+    </body>
+</email>
